@@ -1,0 +1,7 @@
+ .bundle-container {
+    display: flex
+  }
+
+  .bundle-left, bundle-right {
+    width: 50%
+  }
